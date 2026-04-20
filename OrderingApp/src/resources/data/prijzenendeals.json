@@ -1,0 +1,196 @@
+{
+    "prijzen_en_deals": [
+        {
+            "naam": "Sinaasappel",
+            "pricePerUnit": 0.65,
+            "weightPerUnit": 200,
+            "deal": {
+                "label": "Winterdeal",
+                "type": "percentage",
+                "value": 10,
+                "durationHours": 48
+            }
+        },
+        {
+            "naam": "Mango",
+            "pricePerUnit": 1.79,
+            "weightPerUnit": 400,
+            "deal": null
+        },
+        {
+            "naam": "Banaan",
+            "pricePerUnit": 0.35,
+            "weightPerUnit": 120,
+            "deal": null
+        },
+        {
+            "naam": "Citroen",
+            "pricePerUnit": 0.39,
+            "weightPerUnit": 120,
+            "deal": {
+                "label": "Winterdeal",
+                "type": "percentage",
+                "value": 5,
+                "durationHours": 48
+            }
+        },
+        {
+            "naam": "Blauwe bes",
+            "pricePerUnit": 0.40,
+            "weightPerUnit": 7,
+            "deal": null
+        },
+        {
+            "naam": "Rode bes",
+            "pricePerUnit": 0.35,
+            "weightPerUnit": 5,
+            "deal": null
+        },
+        {
+            "naam": "Granaatappel",
+            "pricePerUnit": 1.99,
+            "weightPerUnit": 280,
+            "deal": {
+                "label": "Winterdeal",
+                "type": "percentage",
+                "value": 15,
+                "durationHours": 48
+            }
+        },
+        {
+            "naam": "Perzik",
+            "pricePerUnit": 0.79,
+            "weightPerUnit": 150,
+            "deal": null
+        },
+        {
+            "naam": "Grapefruit",
+            "pricePerUnit": 0.89,
+            "weightPerUnit": 350,
+            "deal": null
+        },
+        {
+            "naam": "Kiwi",
+            "pricePerUnit": 0.49,
+            "weightPerUnit": 100,
+            "deal": null
+        },
+        {
+            "naam": "Ananas",
+            "pricePerUnit": 2.49,
+            "weightPerUnit": 1200,
+            "deal": {
+                "label": "Winterdeal",
+                "type": "percentage",
+                "value": 20,
+                "durationHours": 48
+            }
+        },
+        {
+            "naam": "Appel",
+            "pricePerUnit": 0.45,
+            "weightPerUnit": 180,
+            "deal": null
+        },
+        {
+            "naam": "Peer",
+            "pricePerUnit": 0.55,
+            "weightPerUnit": 170,
+            "deal": null
+        },
+        {
+            "naam": "Kers",
+            "pricePerUnit": 0.70,
+            "weightPerUnit": 8,
+            "deal": {
+                "label": "Winterdeal",
+                "type": "percentage",
+                "value": 10,
+                "durationHours": 48
+            }
+        },
+        {
+            "naam": "Abrikoos",
+            "pricePerUnit": 0.60,
+            "weightPerUnit": 65,
+            "deal": null
+        },
+        {
+            "naam": "Mandarijn",
+            "pricePerUnit": 0.40,
+            "weightPerUnit": 80,
+            "deal": null
+        },
+        {
+            "naam": "Papaja",
+            "pricePerUnit": 2.49,
+            "weightPerUnit": 500,
+            "deal": {
+                "label": "Winterdeal",
+                "type": "percentage",
+                "value": 5,
+                "durationHours": 48
+            }
+        },
+        {
+            "naam": "Framboos",
+            "pricePerUnit": 0.50,
+            "weightPerUnit": 8,
+            "deal": null
+        },
+        {
+            "naam": "Aardbei",
+            "pricePerUnit": 0.55,
+            "weightPerUnit": 15,
+            "deal": null
+        },
+        {
+            "naam": "Pruim",
+            "pricePerUnit": 0.50,
+            "weightPerUnit": 90,
+            "deal": null
+        },
+        {
+            "naam": "Goudreinet (appel)",
+            "pricePerUnit": 0.55,
+            "weightPerUnit": 160,
+            "deal": null
+        },
+        {
+            "naam": "Conference (peer)",
+            "pricePerUnit": 0.65,
+            "weightPerUnit": 160,
+            "deal": null
+        },
+        {
+            "naam": "Jostabes",
+            "pricePerUnit": 0.60,
+            "weightPerUnit": 20,
+            "deal": null
+        },
+        {
+            "naam": "Mirabelpruim",
+            "pricePerUnit": 0.80,
+            "weightPerUnit": 100,
+            "deal": null
+        },
+        {
+            "naam": "Elstar (appel)",
+            "pricePerUnit": 0.80,
+            "weightPerUnit": 200,
+            "deal": null
+        },
+        {
+            "naam": "Jonagold (appel)",
+            "pricePerUnit": 0.80,
+            "weightPerUnit": 175,
+            "deal": null
+        },
+        {
+            "naam": "Kers (zoet)",
+            "pricePerUnit": 0.80,
+            "weightPerUnit": 8,
+            "deal": null
+        }
+    ]
+}

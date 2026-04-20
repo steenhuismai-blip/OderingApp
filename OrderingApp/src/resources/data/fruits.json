@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Appel",
+        "fruitInfo": "Knapperige Elstar appels uit Nederland. Geteeld op Fruitboerderij De Betuwe in Gelderland.",
+        "pricePerUnit": 0.45,
+        "weightPerUnit": 180,
+        "images": "images/appel.png",
+        "season": "autumn",
+        "available": true
+    },
+    {
+        "name": "Banaan",
+        "fruitInfo": "Fairtrade bananen uit Ecuador. Geïmporteerd via Chiquita en gerijpt in Nederland.",
+        "pricePerUnit": 0.35,
+        "weightPerUnit": 120,
+        "images": "images/banaan.png",
+        "season": "summer",
+        "available": true
+    },
+    {
+        "name": "Sinaasappel",
+        "fruitInfo": "Sappige Valencia sinaasappels uit Spanje. Afkomstig van zonnige boomgaarden in Valencia.",
+        "pricePerUnit": 0.65,
+        "weightPerUnit": 200,
+        "images": "images/sinaasappel.png",
+        "season": "winter",
+        "available": true
+    },
+    {
+        "name": "Aardbei",
+        "fruitInfo": "Verse Nederlandse aardbeien uit Westland. Geteeld in moderne kassen van Tuinderij Van den Berg.",
+        "pricePerUnit": 0.55,
+        "weightPerUnit": 15,
+        "images": "images/aardbei.png",
+        "season": "spring",
+        "available": false
+    },
+    {
+        "name": "Druiven",
+        "fruitInfo": "Pitloze witte druiven uit Italië. Geoogst in de wijngaarden van Apulië.",
+        "pricePerUnit": 1.20,
+        "weightPerUnit": 500,
+        "images": "images/druiven.png",
+        "season": "autumn",
+        "available": true
+    },
+    {
+        "name": "Watermeloen",
+        "fruitInfo": "Zoete watermeloen uit Spanje. Geteeld onder de Spaanse zon in Murcia.",
+        "pricePerUnit": 2.99,
+        "weightPerUnit": 3000,
+        "images": "images/watermeloen.png",
+        "season": "summer",
+        "available": true
+    },
+    {
+        "name": "Ananas",
+        "fruitInfo": "Tropische ananas uit Costa Rica. Vers geplukt en luchtvervoerd voor optimale kwaliteit.",
+        "pricePerUnit": 2.49,
+        "weightPerUnit": 1200,
+        "season": "summer",
+        "available": false
+    },
+    {
+        "name": "Grapefruit",
+        "fruitInfo": "Roze grapefruit uit Israël. Rijk aan vitamine C en geteeld in de vruchtbare valleien.",
+        "pricePerUnit": 0.89,
+        "weightPerUnit": 350,
+        "season": "winter",
+        "available": true
+    },
+    {
+        "name": "Bramen",
+        "fruitInfo": "Verse Nederlandse bramen uit Brabant. Geplukt op Berryboerderij De Kempen.",
+        "pricePerUnit": 0.40,
+        "weightPerUnit": 10,
+        "season": "summer",
+        "available": true
+    },
+    {
+        "name": "Kersen",
+        "fruitInfo": "Zoete kersen uit Turkije. Handgeplukt voor de beste kwaliteit.",
+        "pricePerUnit": 0.70,
+        "weightPerUnit": 8,
+        "images": "images/kersen.png",
+        "season": "summer",
+        "available": false
+    },
+    {
+        "name": "Avocado",
+        "fruitInfo": "Rijpe Hass avocado's uit Peru. Perfect voor guacamole en toast.",
+        "pricePerUnit": 1.29,
+        "weightPerUnit": 200,
+        "season": "autumn",
+        "available": true
+    },
+    {
+        "name": "Peer",
+        "fruitInfo": "Sappige Conference peren uit Nederland. Geteeld in de boomgaarden van Zeeland.",
+        "pricePerUnit": 0.55,
+        "weightPerUnit": 170,
+        "season": "autumn",
+        "available": true
+    },
+    {
+        "name": "Kiwi",
+        "fruitInfo": "Groene kiwi's uit Nieuw-Zeeland. Vol vitamine C en heerlijk fris.",
+        "pricePerUnit": 0.49,
+        "weightPerUnit": 100,
+        "season": "winter",
+        "available": false
+    },
+    {
+        "name": "Granaatappel",
+        "fruitInfo": "Granaatappels uit Turkije. Vol antioxidanten en gezonde pitten.",
+        "pricePerUnit": 1.99,
+        "weightPerUnit": 280,
+        "season": "autumn",
+        "available": true
+    },
+    {
+        "name": "Meloen",
+        "fruitInfo": "Gele Galia meloen uit Spanje. Zoet en aromatisch met groen vruchtvlees.",
+        "pricePerUnit": 2.29,
+        "weightPerUnit": 1500,
+        "season": "summer",
+        "available": false
+    },
+    {
+        "name": "Mandarijn",
+        "fruitInfo": "Clementines uit Marokko. Makkelijk te pellen en zonder pitten.",
+        "pricePerUnit": 0.40,
+        "weightPerUnit": 80,
+        "season": "winter",
+        "available": true
+    },
+    {
+        "name": "Abrikoos",
+        "fruitInfo": "Zachte abrikozen uit Spanje. Zongerijpt voor optimale smaak.",
+        "pricePerUnit": 0.60,
+        "weightPerUnit": 65,
+        "season": "summer",
+        "available": true
+    },
+    {
+        "name": "Frambozen",
+        "fruitInfo": "Delicate frambozen uit Nederland. Geteeld op Berryboerderij Limburg.",
+        "pricePerUnit": 0.50,
+        "weightPerUnit": 8,
+        "season": "summer",
+        "available": false
+    },
+    {
+        "name": "Mango",
+        "fruitInfo": "Tropische Kent mango's uit Brazilië. Romig en zoet met veel vruchtvlees.",
+        "pricePerUnit": 1.79,
+        "weightPerUnit": 400,
+        "season": "summer",
+        "available": true
+    },
+    {
+        "name": "Papaja",
+        "fruitInfo": "Exotische papaja uit Thailand. Rijk aan papaine enzym en vitaminen.",
+        "pricePerUnit": 2.49,
+        "weightPerUnit": 500,
+        "season": "summer",
+        "available": false
+    },
+    {
+        "name": "Citroen",
+        "fruitInfo": "Sappige citroenen uit Spanje. Onbehandeld en perfect voor in de keuken.",
+        "pricePerUnit": 0.39,
+        "weightPerUnit": 120,
+        "season": "winter",
+        "available": true
+    },
+    {
+        "name": "Limoen",
+        "fruitInfo": "Aromatische limoenen uit Brazilië. Essentieel voor cocktails en Aziatische gerechten.",
+        "pricePerUnit": 0.45,
+        "weightPerUnit": 65,
+        "season": "summer",
+        "available": true
+    },
+    {
+        "name": "Blauwe bes",
+        "fruitInfo": "Bosbessen uit Nederland. Geteeld op Bosbessenboerderij Gelderland.",
+        "pricePerUnit": 0.40,
+        "weightPerUnit": 7,
+        "season": "summer",
+        "available": false
+    },
+    {
+        "name": "Rode bes",
+        "fruitInfo": "Zure rode bessen uit Nederland. Perfect voor jam en gebak.",
+        "pricePerUnit": 0.35,
+        "weightPerUnit": 5,
+        "season": "summer",
+        "available": true
+    },
+    {
+        "name": "Perzik",
+        "fruitInfo": "Fluwelige perziken uit Italië. Zongerijpt in de boomgaarden van Emilia-Romagna.",
+        "pricePerUnit": 0.79,
+        "weightPerUnit": 150,
+        "images": "images/perzik.png",
+        "season": "summer",
+        "available": true
+    },
+    {
+        "name": "Nectarine",
+        "fruitInfo": "Gladde nectarines uit Spanje. Zoet en sappig zonder het velletje van perziken.",
+        "pricePerUnit": 0.75,
+        "weightPerUnit": 140,
+        "season": "summer",
+        "available": false
+    },
+    {
+        "name": "Kokosnoot",
+        "fruitInfo": "Verse kokosnoten uit de Filipijnen. Met heerlijk wit vruchtvlees en kokoswater.",
+        "pricePerUnit": 1.99,
+        "weightPerUnit": 800,
+        "season": "summer",
+        "available": true
+    },
+    {
+        "name": "Passievrucht",
+        "fruitInfo": "Passievruchten uit Colombia. Intens aromatisch met zoet-zure pitten.",
+        "pricePerUnit": 0.99,
+        "weightPerUnit": 50,
+        "season": "summer",
+        "available": true
+    },
+    {
+        "name": "Lychee",
+        "fruitInfo": "Exotische lychees uit Thailand. Zoet en sappig met een unieke textuur.",
+        "pricePerUnit": 0.60,
+        "weightPerUnit": 20,
+        "season": "winter",
+        "available": false
+    },
+    {
+        "name": "Pruim",
+        "fruitInfo": "Blauwe pruimen uit Nederland. Geteeld in de boomgaarden van Limburg.",
+        "pricePerUnit": 0.50,
+        "weightPerUnit": 90,
+        "season": "summer",
+        "available": true
+    },
+    {
+        "name": "Cantaloupe",
+        "fruitInfo": "Cantaloupe meloen uit Frankrijk. Oranje vruchtvlees met zoete smaak.",
+        "pricePerUnit": 2.79,
+        "weightPerUnit": 1200,
+        "season": "summer",
+        "available": false
+    },
+    {
+        "name": "Dragonfruit",
+        "fruitInfo": "Spectaculaire dragonfruit uit Vietnam. Wit vruchtvlees met zwarte pitjes.",
+        "pricePerUnit": 3.49,
+        "weightPerUnit": 350,
+        "season": "summer",
+        "available": true
+    },
+    {
+        "name": "Tamarinde",
+        "fruitInfo": "Tamarinde uit Thailand. Zoet-zuur en perfect voor Aziatische curry's.",
+        "pricePerUnit": 1.99,
+        "weightPerUnit": 200,
+        "season": "winter",
+        "available": true
+    },
+    {
+        "name": "Guave",
+        "fruitInfo": "Tropische guave uit Mexico. Aromatisch en rijk aan vitamine C.",
+        "pricePerUnit": 1.49,
+        "weightPerUnit": 120,
+        "season": "summer",
+        "available": false
+    },
+    {
+        "name": "Rabarber",
+        "fruitInfo": "Nederlandse rabarber uit Westland. Ideaal voor jam, taart en compote.",
+        "pricePerUnit": 0.30,
+        "weightPerUnit": 100,
+        "season": "spring",
+        "available": true
+    },
+    {
+        "name": "Cranberry",
+        "fruitInfo": "Zure cranberries uit de VS. Vol antioxidanten en perfect voor sauzen.",
+        "pricePerUnit": 0.45,
+        "weightPerUnit": 10,
+        "season": "autumn",
+        "available": true
+    },
+    {
+        "name": "Bosbes",
+        "fruitInfo": "Wilde bosbessen uit Zweden. Kleinere en intensere smaak dan gewone blauwe bessen.",
+        "pricePerUnit": 0.50,
+        "weightPerUnit": 6,
+        "season": "summer",
+        "available": true
+    },
+    {
+        "name": "Olijf",
+        "fruitInfo": "Groene olijven uit Griekenland. Handgeplukt in de boomgaarden van Kreta.",
+        "pricePerUnit": 0.25,
+        "weightPerUnit": 12,
+        "season": "autumn",
+        "available": false
+    },
+    {
+        "name": "Tomaat",
+        "fruitInfo": "Smaaktomaten uit Nederland. Geteeld in Westlandse kassen voor optimale smaak.",
+        "pricePerUnit": 0.60,
+        "weightPerUnit": 150,
+        "season": "summer",
+        "available": true
+    }
+]

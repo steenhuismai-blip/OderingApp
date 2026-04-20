@@ -1,0 +1,940 @@
+{
+  "provinces": [
+    {
+      "provincie": "Groningen",
+      "vestigingen": [
+        {
+          "stad": "Groningen",
+          "adres": "Grote Markt 1, 9712 HS Groningen",
+          "fruit": [
+            {
+              "naam": "Blauwe bes",
+              "beschikbaarheid_lokatie": 209
+            },
+            {
+              "naam": "Papaja",
+              "beschikbaarheid_lokatie": 168
+            },
+            {
+              "naam": "Framboos",
+              "beschikbaarheid_lokatie": 174
+            },
+            {
+              "naam": "Kers",
+              "beschikbaarheid_lokatie": 276
+            },
+            {
+              "naam": "Grapefruit",
+              "beschikbaarheid_lokatie": 216
+            },
+            {
+              "naam": "Pruim",
+              "beschikbaarheid_lokatie": 103
+            },
+            {
+              "naam": "Mandarijn",
+              "beschikbaarheid_lokatie": 172
+            },
+            {
+              "naam": "Mirabelpruim",
+              "beschikbaarheid_lokatie": 307
+            },
+            {
+              "naam": "Sinaasappel",
+              "beschikbaarheid_lokatie": 397
+            },
+            {
+              "naam": "Peer",
+              "beschikbaarheid_lokatie": 608
+            },
+            {
+              "naam": "Goudreinet (appel)",
+              "beschikbaarheid_lokatie": 421
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "provincie": "Friesland",
+      "vestigingen": [
+        {
+          "stad": "Leeuwarden",
+          "adres": "Nieuwestad 34, 8911 CS Leeuwarden",
+          "fruit": [
+            {
+              "naam": "Mango",
+              "beschikbaarheid_lokatie": 237
+            },
+            {
+              "naam": "Mirabelpruim",
+              "beschikbaarheid_lokatie": 218
+            },
+            {
+              "naam": "Mandarijn",
+              "beschikbaarheid_lokatie": 286
+            },
+            {
+              "naam": "Appel",
+              "beschikbaarheid_lokatie": 695
+            },
+            {
+              "naam": "Aardbei",
+              "beschikbaarheid_lokatie": 123
+            },
+            {
+              "naam": "Rode bes",
+              "beschikbaarheid_lokatie": 178
+            },
+            {
+              "naam": "Jostabes",
+              "beschikbaarheid_lokatie": 164
+            },
+            {
+              "naam": "Perzik",
+              "beschikbaarheid_lokatie": 188
+            },
+            {
+              "naam": "Citroen",
+              "beschikbaarheid_lokatie": 307
+            },
+            {
+              "naam": "Kers (zoet)",
+              "beschikbaarheid_lokatie": 244
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "provincie": "Drenthe",
+      "vestigingen": [
+        {
+          "stad": "Assen",
+          "adres": "Vaart Z.Z. 1, 9401 BN Assen",
+          "fruit": [
+            {
+              "naam": "Banaan",
+              "beschikbaarheid_lokatie": 213
+            },
+            {
+              "naam": "Framboos",
+              "beschikbaarheid_lokatie": 188
+            },
+            {
+              "naam": "Ananas",
+              "beschikbaarheid_lokatie": 173
+            },
+            {
+              "naam": "Mandarijn",
+              "beschikbaarheid_lokatie": 271
+            },
+            {
+              "naam": "Kers",
+              "beschikbaarheid_lokatie": 169
+            },
+            {
+              "naam": "Elstar (appel)",
+              "beschikbaarheid_lokatie": 418
+            },
+            {
+              "naam": "Appel",
+              "beschikbaarheid_lokatie": 544
+            },
+            {
+              "naam": "Blauwe bes",
+              "beschikbaarheid_lokatie": 242
+            },
+            {
+              "naam": "Goudreinet (appel)",
+              "beschikbaarheid_lokatie": 316
+            },
+            {
+              "naam": "Perzik",
+              "beschikbaarheid_lokatie": 214
+            },
+            {
+              "naam": "Aardbei",
+              "beschikbaarheid_lokatie": 195
+            },
+            {
+              "naam": "Papaja",
+              "beschikbaarheid_lokatie": 217
+            }
+          ]
+        },
+        {
+          "stad": "Emmen",
+          "adres": "Hondsrugweg 2, 7821 AA Emmen",
+          "fruit": [
+            {
+              "naam": "Banaan",
+              "beschikbaarheid_lokatie": 249
+            },
+            {
+              "naam": "Rode bes",
+              "beschikbaarheid_lokatie": 116
+            },
+            {
+              "naam": "Goudreinet (appel)",
+              "beschikbaarheid_lokatie": 428
+            },
+            {
+              "naam": "Mandarijn",
+              "beschikbaarheid_lokatie": 196
+            },
+            {
+              "naam": "Sinaasappel",
+              "beschikbaarheid_lokatie": 281
+            },
+            {
+              "naam": "Framboos",
+              "beschikbaarheid_lokatie": 195
+            },
+            {
+              "naam": "Elstar (appel)",
+              "beschikbaarheid_lokatie": 442
+            },
+            {
+              "naam": "Mirabelpruim",
+              "beschikbaarheid_lokatie": 211
+            },
+            {
+              "naam": "Kiwi",
+              "beschikbaarheid_lokatie": 167
+            },
+            {
+              "naam": "Grapefruit",
+              "beschikbaarheid_lokatie": 265
+            },
+            {
+              "naam": "Appel",
+              "beschikbaarheid_lokatie": 428
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "provincie": "Overijssel",
+      "vestigingen": [
+        {
+          "stad": "Zwolle",
+          "adres": "Melkmarkt 22, 8011 MC Zwolle",
+          "fruit": [
+            {
+              "naam": "Kers (zoet)",
+              "beschikbaarheid_lokatie": 237
+            },
+            {
+              "naam": "Elstar (appel)",
+              "beschikbaarheid_lokatie": 629
+            },
+            {
+              "naam": "Framboos",
+              "beschikbaarheid_lokatie": 229
+            },
+            {
+              "naam": "Sinaasappel",
+              "beschikbaarheid_lokatie": 285
+            },
+            {
+              "naam": "Abrikoos",
+              "beschikbaarheid_lokatie": 192
+            },
+            {
+              "naam": "Granaatappel",
+              "beschikbaarheid_lokatie": 134
+            },
+            {
+              "naam": "Peer",
+              "beschikbaarheid_lokatie": 515
+            },
+            {
+              "naam": "Appel",
+              "beschikbaarheid_lokatie": 407
+            },
+            {
+              "naam": "Grapefruit",
+              "beschikbaarheid_lokatie": 228
+            },
+            {
+              "naam": "Papaja",
+              "beschikbaarheid_lokatie": 172
+            },
+            {
+              "naam": "Pruim",
+              "beschikbaarheid_lokatie": 203
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "provincie": "Flevoland",
+      "vestigingen": [
+        {
+          "stad": "Almere",
+          "adres": "Landdrostdreef 10, 1314 SK Almere",
+          "fruit": [
+            {
+              "naam": "Kers",
+              "beschikbaarheid_lokatie": 238
+            },
+            {
+              "naam": "Banaan",
+              "beschikbaarheid_lokatie": 315
+            },
+            {
+              "naam": "Mandarijn",
+              "beschikbaarheid_lokatie": 282
+            },
+            {
+              "naam": "Mirabelpruim",
+              "beschikbaarheid_lokatie": 253
+            },
+            {
+              "naam": "Goudreinet (appel)",
+              "beschikbaarheid_lokatie": 635
+            },
+            {
+              "naam": "Peer",
+              "beschikbaarheid_lokatie": 349
+            },
+            {
+              "naam": "Conference (peer)",
+              "beschikbaarheid_lokatie": 496
+            },
+            {
+              "naam": "Mango",
+              "beschikbaarheid_lokatie": 191
+            },
+            {
+              "naam": "Pruim",
+              "beschikbaarheid_lokatie": 225
+            },
+            {
+              "naam": "Sinaasappel",
+              "beschikbaarheid_lokatie": 269
+            },
+            {
+              "naam": "Perzik",
+              "beschikbaarheid_lokatie": 212
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "provincie": "Gelderland",
+      "vestigingen": [
+        {
+          "stad": "Arnhem",
+          "adres": "Marktstraat 5, 6811 DG Arnhem",
+          "fruit": [
+            {
+              "naam": "Grapefruit",
+              "beschikbaarheid_lokatie": 432
+            },
+            {
+              "naam": "Kiwi",
+              "beschikbaarheid_lokatie": 239
+            },
+            {
+              "naam": "Sinaasappel",
+              "beschikbaarheid_lokatie": 332
+            },
+            {
+              "naam": "Appel",
+              "beschikbaarheid_lokatie": 723
+            },
+            {
+              "naam": "Aardbei",
+              "beschikbaarheid_lokatie": 182
+            },
+            {
+              "naam": "Mirabelpruim",
+              "beschikbaarheid_lokatie": 292
+            },
+            {
+              "naam": "Perzik",
+              "beschikbaarheid_lokatie": 192
+            },
+            {
+              "naam": "Jonagold (appel)",
+              "beschikbaarheid_lokatie": 499
+            },
+            {
+              "naam": "Peer",
+              "beschikbaarheid_lokatie": 689
+            },
+            {
+              "naam": "Kers",
+              "beschikbaarheid_lokatie": 283
+            },
+            {
+              "naam": "Rode bes",
+              "beschikbaarheid_lokatie": 198
+            },
+            {
+              "naam": "Abrikoos",
+              "beschikbaarheid_lokatie": 337
+            }
+          ]
+        },
+        {
+          "stad": "Nijmegen",
+          "adres": "Burchtstraat 12, 6511 RK Nijmegen",
+          "fruit": [
+            {
+              "naam": "Mirabelpruim",
+              "beschikbaarheid_lokatie": 287
+            },
+            {
+              "naam": "Conference (peer)",
+              "beschikbaarheid_lokatie": 551
+            },
+            {
+              "naam": "Blauwe bes",
+              "beschikbaarheid_lokatie": 253
+            },
+            {
+              "naam": "Jostabes",
+              "beschikbaarheid_lokatie": 202
+            },
+            {
+              "naam": "Goudreinet (appel)",
+              "beschikbaarheid_lokatie": 689
+            },
+            {
+              "naam": "Perzik",
+              "beschikbaarheid_lokatie": 225
+            },
+            {
+              "naam": "Kiwi",
+              "beschikbaarheid_lokatie": 269
+            },
+            {
+              "naam": "Banaan",
+              "beschikbaarheid_lokatie": 196
+            },
+            {
+              "naam": "Mandarijn",
+              "beschikbaarheid_lokatie": 326
+            },
+            {
+              "naam": "Rode bes",
+              "beschikbaarheid_lokatie": 218
+            },
+            {
+              "naam": "Citroen",
+              "beschikbaarheid_lokatie": 401
+            },
+            {
+              "naam": "Aardbei",
+              "beschikbaarheid_lokatie": 223
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "provincie": "Utrecht",
+      "vestigingen": [
+        {
+          "stad": "Utrecht",
+          "adres": "Domplein 20, 3512 JC Utrecht",
+          "fruit": [
+            {
+              "naam": "Elstar (appel)",
+              "beschikbaarheid_lokatie": 427
+            },
+            {
+              "naam": "Papaja",
+              "beschikbaarheid_lokatie": 328
+            },
+            {
+              "naam": "Citroen",
+              "beschikbaarheid_lokatie": 350
+            },
+            {
+              "naam": "Mirabelpruim",
+              "beschikbaarheid_lokatie": 334
+            },
+            {
+              "naam": "Appel",
+              "beschikbaarheid_lokatie": 836
+            },
+            {
+              "naam": "Framboos",
+              "beschikbaarheid_lokatie": 238
+            },
+            {
+              "naam": "Pruim",
+              "beschikbaarheid_lokatie": 238
+            },
+            {
+              "naam": "Ananas",
+              "beschikbaarheid_lokatie": 312
+            },
+            {
+              "naam": "Grapefruit",
+              "beschikbaarheid_lokatie": 350
+            },
+            {
+              "naam": "Kers",
+              "beschikbaarheid_lokatie": 299
+            },
+            {
+              "naam": "Rode bes",
+              "beschikbaarheid_lokatie": 260
+            },
+            {
+              "naam": "Kers (zoet)",
+              "beschikbaarheid_lokatie": 353
+            },
+            {
+              "naam": "Peer",
+              "beschikbaarheid_lokatie": 668
+            },
+            {
+              "naam": "Conference (peer)",
+              "beschikbaarheid_lokatie": 488
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "provincie": "Noord-Holland",
+      "vestigingen": [
+        {
+          "stad": "Amsterdam",
+          "adres": "Keizersgracht 101, 1015 CV Amsterdam",
+          "fruit": [
+            {
+              "naam": "Blauwe bes",
+              "beschikbaarheid_lokatie": 250
+            },
+            {
+              "naam": "Mango",
+              "beschikbaarheid_lokatie": 311
+            },
+            {
+              "naam": "Kers",
+              "beschikbaarheid_lokatie": 309
+            },
+            {
+              "naam": "Rode bes",
+              "beschikbaarheid_lokatie": 300
+            },
+            {
+              "naam": "Abrikoos",
+              "beschikbaarheid_lokatie": 213
+            },
+            {
+              "naam": "Framboos",
+              "beschikbaarheid_lokatie": 120
+            },
+            {
+              "naam": "Perzik",
+              "beschikbaarheid_lokatie": 364
+            },
+            {
+              "naam": "Peer",
+              "beschikbaarheid_lokatie": 582
+            },
+            {
+              "naam": "Ananas",
+              "beschikbaarheid_lokatie": 258
+            },
+            {
+              "naam": "Aardbei",
+              "beschikbaarheid_lokatie": 145
+            },
+            {
+              "naam": "Mandarijn",
+              "beschikbaarheid_lokatie": 344
+            },
+            {
+              "naam": "Jonagold (appel)",
+              "beschikbaarheid_lokatie": 476
+            },
+            {
+              "naam": "Conference (peer)",
+              "beschikbaarheid_lokatie": 735
+            },
+            {
+              "naam": "Appel",
+              "beschikbaarheid_lokatie": 413
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "provincie": "Zuid-Holland",
+      "vestigingen": [
+        {
+          "stad": "Rotterdam",
+          "adres": "Coolsingel 42, 3012 AG Rotterdam",
+          "fruit": [
+            {
+              "naam": "Banaan",
+              "beschikbaarheid_lokatie": 326
+            },
+            {
+              "naam": "Mirabelpruim",
+              "beschikbaarheid_lokatie": 174
+            },
+            {
+              "naam": "Perzik",
+              "beschikbaarheid_lokatie": 324
+            },
+            {
+              "naam": "Citroen",
+              "beschikbaarheid_lokatie": 262
+            },
+            {
+              "naam": "Peer",
+              "beschikbaarheid_lokatie": 652
+            },
+            {
+              "naam": "Grapefruit",
+              "beschikbaarheid_lokatie": 403
+            },
+            {
+              "naam": "Elstar (appel)",
+              "beschikbaarheid_lokatie": 360
+            },
+            {
+              "naam": "Framboos",
+              "beschikbaarheid_lokatie": 199
+            },
+            {
+              "naam": "Pruim",
+              "beschikbaarheid_lokatie": 307
+            },
+            {
+              "naam": "Kers",
+              "beschikbaarheid_lokatie": 348
+            },
+            {
+              "naam": "Goudreinet (appel)",
+              "beschikbaarheid_lokatie": 407
+            },
+            {
+              "naam": "Jostabes",
+              "beschikbaarheid_lokatie": 153
+            },
+            {
+              "naam": "Blauwe bes",
+              "beschikbaarheid_lokatie": 300
+            }
+          ]
+        },
+        {
+          "stad": "Den Haag",
+          "adres": "Lange Voorhout 56, 2514 EJ Den Haag",
+          "fruit": [
+            {
+              "naam": "Aardbei",
+              "beschikbaarheid_lokatie": 155
+            },
+            {
+              "naam": "Mirabelpruim",
+              "beschikbaarheid_lokatie": 400
+            },
+            {
+              "naam": "Grapefruit",
+              "beschikbaarheid_lokatie": 386
+            },
+            {
+              "naam": "Framboos",
+              "beschikbaarheid_lokatie": 287
+            },
+            {
+              "naam": "Sinaasappel",
+              "beschikbaarheid_lokatie": 275
+            },
+            {
+              "naam": "Goudreinet (appel)",
+              "beschikbaarheid_lokatie": 457
+            },
+            {
+              "naam": "Abrikoos",
+              "beschikbaarheid_lokatie": 340
+            },
+            {
+              "naam": "Granaatappel",
+              "beschikbaarheid_lokatie": 101
+            },
+            {
+              "naam": "Perzik",
+              "beschikbaarheid_lokatie": 302
+            },
+            {
+              "naam": "Kers (zoet)",
+              "beschikbaarheid_lokatie": 400
+            },
+            {
+              "naam": "Appel",
+              "beschikbaarheid_lokatie": 627
+            },
+            {
+              "naam": "Elstar (appel)",
+              "beschikbaarheid_lokatie": 867
+            },
+            {
+              "naam": "Jonagold (appel)",
+              "beschikbaarheid_lokatie": 889
+            },
+            {
+              "naam": "Rode bes",
+              "beschikbaarheid_lokatie": 235
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "provincie": "Zeeland",
+      "vestigingen": [
+        {
+          "stad": "Middelburg",
+          "adres": "Lange Delft 30, 4331 AP Middelburg",
+          "fruit": [
+            {
+              "naam": "Appel",
+              "beschikbaarheid_lokatie": 280
+            },
+            {
+              "naam": "Sinaasappel",
+              "beschikbaarheid_lokatie": 182
+            },
+            {
+              "naam": "Aardbei",
+              "beschikbaarheid_lokatie": 81
+            },
+            {
+              "naam": "Granaatappel",
+              "beschikbaarheid_lokatie": 174
+            },
+            {
+              "naam": "Blauwe bes",
+              "beschikbaarheid_lokatie": 198
+            },
+            {
+              "naam": "Jostabes",
+              "beschikbaarheid_lokatie": 107
+            },
+            {
+              "naam": "Banaan",
+              "beschikbaarheid_lokatie": 216
+            },
+            {
+              "naam": "Citroen",
+              "beschikbaarheid_lokatie": 396
+            },
+            {
+              "naam": "Perzik",
+              "beschikbaarheid_lokatie": 229
+            },
+            {
+              "naam": "Goudreinet (appel)",
+              "beschikbaarheid_lokatie": 513
+            },
+            {
+              "naam": "Jonagold (appel)",
+              "beschikbaarheid_lokatie": 474
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "provincie": "Noord-Brabant",
+      "vestigingen": [
+        {
+          "stad": "Eindhoven",
+          "adres": "Hermanus Boexstraat 5, 5611 EM Eindhoven",
+          "fruit": [
+            {
+              "naam": "Conference (peer)",
+              "beschikbaarheid_lokatie": 283
+            },
+            {
+              "naam": "Banaan",
+              "beschikbaarheid_lokatie": 233
+            },
+            {
+              "naam": "Mirabelpruim",
+              "beschikbaarheid_lokatie": 289
+            },
+            {
+              "naam": "Rode bes",
+              "beschikbaarheid_lokatie": 271
+            },
+            {
+              "naam": "Grapefruit",
+              "beschikbaarheid_lokatie": 353
+            },
+            {
+              "naam": "Kiwi",
+              "beschikbaarheid_lokatie": 255
+            },
+            {
+              "naam": "Peer",
+              "beschikbaarheid_lokatie": 479
+            },
+            {
+              "naam": "Perzik",
+              "beschikbaarheid_lokatie": 243
+            },
+            {
+              "naam": "Pruim",
+              "beschikbaarheid_lokatie": 317
+            },
+            {
+              "naam": "Mango",
+              "beschikbaarheid_lokatie": 354
+            },
+            {
+              "naam": "Blauwe bes",
+              "beschikbaarheid_lokatie": 253
+            },
+            {
+              "naam": "Jostabes",
+              "beschikbaarheid_lokatie": 152
+            },
+            {
+              "naam": "Goudreinet (appel)",
+              "beschikbaarheid_lokatie": 686
+            }
+          ]
+        },
+        {
+          "stad": "Tilburg",
+          "adres": "Heuvel 2, 5038 CP Tilburg",
+          "fruit": [
+            {
+              "naam": "Mandarijn",
+              "beschikbaarheid_lokatie": 375
+            },
+            {
+              "naam": "Jonagold (appel)",
+              "beschikbaarheid_lokatie": 562
+            },
+            {
+              "naam": "Granaatappel",
+              "beschikbaarheid_lokatie": 248
+            },
+            {
+              "naam": "Framboos",
+              "beschikbaarheid_lokatie": 225
+            },
+            {
+              "naam": "Kers (zoet)",
+              "beschikbaarheid_lokatie": 250
+            },
+            {
+              "naam": "Banaan",
+              "beschikbaarheid_lokatie": 300
+            },
+            {
+              "naam": "Kers",
+              "beschikbaarheid_lokatie": 202
+            },
+            {
+              "naam": "Sinaasappel",
+              "beschikbaarheid_lokatie": 357
+            },
+            {
+              "naam": "Conference (peer)",
+              "beschikbaarheid_lokatie": 450
+            },
+            {
+              "naam": "Goudreinet (appel)",
+              "beschikbaarheid_lokatie": 787
+            },
+            {
+              "naam": "Blauwe bes",
+              "beschikbaarheid_lokatie": 173
+            },
+            {
+              "naam": "Pruim",
+              "beschikbaarheid_lokatie": 214
+            },
+            {
+              "naam": "Mirabelpruim",
+              "beschikbaarheid_lokatie": 215
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "provincie": "Limburg",
+      "vestigingen": [
+        {
+          "stad": "Maastricht",
+          "adres": "Vrijthof 10, 6211 LE Maastricht",
+          "fruit": [
+            {
+              "naam": "Abrikoos",
+              "beschikbaarheid_lokatie": 201
+            },
+            {
+              "naam": "Granaatappel",
+              "beschikbaarheid_lokatie": 217
+            },
+            {
+              "naam": "Citroen",
+              "beschikbaarheid_lokatie": 337
+            },
+            {
+              "naam": "Pruim",
+              "beschikbaarheid_lokatie": 276
+            },
+            {
+              "naam": "Blauwe bes",
+              "beschikbaarheid_lokatie": 231
+            },
+            {
+              "naam": "Kers (zoet)",
+              "beschikbaarheid_lokatie": 237
+            },
+            {
+              "naam": "Ananas",
+              "beschikbaarheid_lokatie": 214
+            },
+            {
+              "naam": "Rode bes",
+              "beschikbaarheid_lokatie": 236
+            },
+            {
+              "naam": "Jonagold (appel)",
+              "beschikbaarheid_lokatie": 454
+            },
+            {
+              "naam": "Sinaasappel",
+              "beschikbaarheid_lokatie": 271
+            },
+            {
+              "naam": "Peer",
+              "beschikbaarheid_lokatie": 705
+            },
+            {
+              "naam": "Jostabes",
+              "beschikbaarheid_lokatie": 132
+            },
+            {
+              "naam": "Appel",
+              "beschikbaarheid_lokatie": 401
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
