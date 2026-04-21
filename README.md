@@ -39,8 +39,8 @@ Media & Resources
 ## ▶️ Run the application
 
 ### In Visual Studio Code
-Open `Fitness.java` and press the **Run** button.
+Open `MainApp.java` and press the **Run** button.
 
 ### In the terminal
-javac Fitness.java
-java Fitness
+javac MainApp.java
+java MainApp
