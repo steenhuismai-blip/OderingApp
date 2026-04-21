@@ -19,6 +19,7 @@ The application goes beyond a basic terminal app and includes structured layers 
 <img src="https://github.com/user-attachments/assets/ad2a8fdc-94c3-4c1e-98e8-1b99c0f1fe1d" />
 
 **Features**
+
 Product Browsing
 - View different fruits
 - See details such as: price, origin and additional information
