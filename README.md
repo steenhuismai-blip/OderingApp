@@ -1,11 +1,11 @@
-**Fruit Ordering Application**
+## Fruit Ordering Application
 
 This project is a Java-based fruit ordering application.
 It allows users to browse fruit products, view details, and manage a simple shopping experience.
 
 The application goes beyond a basic terminal app and includes structured layers such as controllers, models, and views.
 
-<h3>Screenshot(s)</h3>
+### Screenshot(s)
 <h6>Start</h6>
 <img src="https://github.com/user-attachments/assets/479c9d25-71f0-48d8-a40b-a81c1c0406c8" />
 
@@ -18,7 +18,7 @@ The application goes beyond a basic terminal app and includes structured layers 
 <h6>Check out - payment screen</h6>
 <img src="https://github.com/user-attachments/assets/ad2a8fdc-94c3-4c1e-98e8-1b99c0f1fe1d" />
 
-**Features**
+### Features
 
 Product Browsing
 - View different fruits
@@ -35,3 +35,12 @@ Filtering
 Media & Resources 
 - Includes images of fruits.
 - Uses resource files for data and configuration.
+
+## ▶️ Run the application
+
+### In Visual Studio Code
+Open `Fitness.java` and press the **Run** button.
+
+### In the terminal
+javac Fitness.java
+java Fitness
